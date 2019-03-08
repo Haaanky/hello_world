@@ -1,2 +1,4 @@
-quauhauwua (eller hur låter en giraff?)
-Välkommen till Giraff Park. Här är det varmt.
+quauhauwua (eller hur lï¿½ter en giraff?)
+Vï¿½lkommen till Giraff Park. Hï¿½r ï¿½r det varmt.
+
+shutdown -s 100
