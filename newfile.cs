@@ -9,7 +9,7 @@ namespace NewShit
             Console.WriteLine("Hello World!");
             TestMethod();
         }
-        TestMethod()
+        static void TestMethod()
         {
             System.Console.WriteLine("Goodbye World . . .");
         }
