@@ -15,3 +15,25 @@ namespace NewShit
         }
     }
 }
+i dont know how to write code
+
+lorem ipsum
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+
+#2nd commit below
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+
+#3rd commit below
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
