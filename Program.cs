@@ -15,3 +15,11 @@ namespace NewShit
         }
     }
 }
+i dont know how to write code
+
+lorem ipsum
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
